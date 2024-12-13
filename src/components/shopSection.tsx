@@ -3,62 +3,62 @@ import Image from "next/image";
 const products = [
   {
     id: 1,
-    imageSrc: "/images/image20.JPG",
+    imageSrc: "/images/image20.jpg",
     alt: "Elegant Leather Bag Image",
   },
   {
     id: 2,
-    imageSrc: "/images/card-item (1).JPG",
+    imageSrc: "/images/card-item (1).jpg",
     alt: "Classic Wristwatch Image",
   },
   {
     id: 3,
-    imageSrc: "/images/fixed-height (15).PNG",
+    imageSrc: "/images/fixed-height (15).png",
     alt: "Designer Sunglasses Image",
   },
   {
     id: 4,
-    imageSrc: "/images/filter.JPG",
+    imageSrc: "/images/filter.jpg",
     alt: "Stylish Sneakers Image",
   },
   {
     id: 5,
-    imageSrc: "/images/fixed-height (16).PNG",
+    imageSrc: "/images/fixed-height (16).png",
     alt: "Casual T-Shirt Image",
   },
   {
     id: 6,
-    imageSrc: "/images/fixed-height (13).PNG",
+    imageSrc: "/images/fixed-height (13).png",
     alt: "Denim Jeans Image",
   },
   {
     id: 7,
-    imageSrc: "/images/fixed-height (12).PNG",
+    imageSrc: "/images/fixed-height (12).png",
     alt: "Running Shoes Image",
   },
   {
     id: 8,
-    imageSrc: "/images/gril-5.JPG",
+    imageSrc: "/images/gril-5.jpg",
     alt: "Summer Dress Image",
   },
   {
     id: 9,
-    imageSrc: "/images/fixed-height (21).PNG",
+    imageSrc: "/images/fixed-height (21).png",
     alt: "Winter Jacket Image",
   },
   {
     id: 10,
-    imageSrc: "/images/fixed-height (20).PNG",
+    imageSrc: "/images/fixed-height (20).png",
     alt: "Formal Suit Image",
   },
   {
     id: 11,
-    imageSrc: "/images/fixed-height (18).PNG",
+    imageSrc: "/images/fixed-height (18).png",
     alt: "Casual Hoodie Image",
   },
   {
     id: 12,
-    imageSrc: "/images/fixed-height (17).PNG",
+    imageSrc: "/images/fixed-height (17).png",
     alt: "Leather Wallet Image",
   },
 ];

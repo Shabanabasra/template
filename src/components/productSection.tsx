@@ -27,7 +27,7 @@ const productSection = () => {
                   </div>
                   <div className="w-full lg:w-1/2 flex justify-center">
                     <Image
-                      src="/images/image16.JPG"
+                      src="/images/image16.jpg"
                       alt="Vita Classic Product"
                       width={400}
                       height={400}

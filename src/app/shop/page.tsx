@@ -42,7 +42,7 @@ export default function Shop() {
           {/* Product Card 1 */}
           <div className="relative group h-[300px] overflow-hidden">
             <Image
-              src="/images/col-md-4 (2).PNG"
+              src="/images/col-md-4 (2).png"
               alt="Product Image"
               fill
               className="object-cover"
@@ -56,7 +56,7 @@ export default function Shop() {
           {/* Product Card 2 */}
           <div className="relative group h-[300px] overflow-hidden">
             <Image
-              src="/images/image10.JPG"
+              src="/images/image10.jpg"
               alt="Product Image"
               fill
               className="object-cover"
@@ -70,7 +70,7 @@ export default function Shop() {
           {/* Product Card 3 */}
           <div className="relative group">
             <Image
-              src="/images/col-md-4 (3).PNG"
+              src="/images/col-md-4 (3).png"
               alt="Product Image"
               fill
               className="object-cover"
@@ -84,7 +84,7 @@ export default function Shop() {
           {/* Product Card 4 */}
           <div className="relative group">
             <Image
-              src="/images/card-item (9).PNG"
+              src="/images/card-item (9).png"
               alt="Product Image"
               fill
               className="object-cover"
@@ -98,7 +98,7 @@ export default function Shop() {
           {/* Product Card 5 */}
           <div className="relative group">
             <Image
-              src="/images/card-item (10).PNG"
+              src="/images/card-item (10).png"
               alt="Product Image"
               fill
               className="object-cover"
@@ -163,7 +163,7 @@ export default function Shop() {
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-8">
           <div className="flex justify-center">
             <Image
-              src="/images/col-12.PNG"
+              src="/images/col-12.png"
               alt="col-12"
               width={100}
               height={48}
@@ -172,7 +172,7 @@ export default function Shop() {
           </div>
           <div className="flex justify-center">
             <Image
-              src="/images/fa-brands-2 (1).PNG"
+              src="/images/fa-brands-2 (1).png"
               alt="fa-brands-2 (1)"
               width={100}
               height={48}
@@ -181,7 +181,7 @@ export default function Shop() {
           </div>
           <div className="flex justify-center">
             <Image
-              src="/images/fa-brands-3 (1).PNG"
+              src="/images/fa-brands-3 (1).png"
               alt="fa-brands-3 (1)"
               width={100}
               height={48}
@@ -190,7 +190,7 @@ export default function Shop() {
           </div>
           <div className="flex justify-center">
             <Image
-              src="/images/col-md-2 (4).PNG"
+              src="/images/col-md-2 (4).png"
               alt="col-md-2 (4)"
               width={100}
               height={48}
@@ -199,7 +199,7 @@ export default function Shop() {
           </div>
           <div className="flex justify-center">
             <Image
-              src="/images/col-md-2 (1).PNG"
+              src="/images/col-md-2 (1).png"
               alt="col-md-2 (1)"
               width={100}
               height={48}
@@ -208,7 +208,7 @@ export default function Shop() {
           </div>
           <div className="flex justify-center">
             <Image
-              src="/images/col-md-2.PNG"
+              src="/images/col-md-2.png"
               alt="col-md-2"
               width={100}
               height={48}

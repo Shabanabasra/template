@@ -15,7 +15,7 @@ const editorsSection = () => {
                 <div className="flex justify-center gap-8 flex-wrap">
                   <div className="relative w-[250px] h-[530px]">
                     <Image
-                      src="/images/image20.JPG"
+                      src="/images/image20.jpg"
                       className="w-full h-full object-cover rounded-md"
                       alt="Men Collection"
                       width={250}
@@ -28,7 +28,7 @@ const editorsSection = () => {
       
                   <div className="relative w-[250px] h-[530px]">
                     <Image
-                      src="/images/card-item (1).JPG"
+                      src="/images/card-item (1).jpg"
                       className="w-full h-full object-cover rounded-md"
                       alt="Women Collection"
                       width={250}
@@ -42,7 +42,7 @@ const editorsSection = () => {
                   <div className="flex flex-col gap-8">
                     <div className="relative w-[200px] h-[250px]">
                       <Image
-                        src="/images/card-item (2).JPG"
+                        src="/images/card-item (2).jpg"
                         className="w-full h-full object-cover rounded-md"
                         alt="Accessories Collection"
                         width={200}
@@ -55,7 +55,7 @@ const editorsSection = () => {
       
                     <div className="relative w-[200px] h-[250px]">
                       <Image
-                        src="/images/filter.JPG"
+                        src="/images/filter.jpg"
                         className="w-full h-full object-cover rounded-md"
                         alt="Kids Collection"
                         width={200}

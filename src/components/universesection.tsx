@@ -9,7 +9,7 @@ const universesection = () => {
                 <div className="w-full max-w-[1440px] flex flex-col lg:flex-row gap-[30px] px-4 lg:px-0">
                   <div className="relative w-full lg:w-[707px] h-[400px] lg:h-[682px] flex justify-center">
                     <Image
-                      src="/images/image14.JPG"
+                      src="/images/image14.jpg"
                       alt="Couple Collection"
                       width={707}
                       height={682}

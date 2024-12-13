@@ -84,7 +84,7 @@ export default function About() {
           <div className="max-w-4xl mx-auto">
             <div className="relative">
               <Image
-                src="/images/mountain-video-thumbnail.PNG"
+                src="/images/mountain-video-thumbnail.png"
                 alt="Video Thumbnail"
                 width={800}
                 height={450}
@@ -130,7 +130,7 @@ export default function About() {
               <div className="flex flex-col items-center bg-white shadow-lg rounded-lg overflow-hidden">
                 <div className="w-full h-[230px] relative">
                   <Image
-                    src="/images/media3.PNG"
+                    src="/images/media3.png"
                     alt="User 1"
                     fill
                     className="object-cover w-full h-full"
@@ -171,7 +171,7 @@ export default function About() {
               <div className="flex flex-col items-center bg-white shadow-lg rounded-lg overflow-hidden">
                 <div className="w-full h-[230px] relative">
                   <Image
-                    src="/images/media.PNG"
+                    src="/images/media.png"
                     alt="User 2"
                     width={300}
                     height={230}
@@ -212,7 +212,7 @@ export default function About() {
               <div className="flex flex-col items-center bg-white shadow-lg rounded-lg overflow-hidden">
                 <div className="w-full h-[230px] relative">
                   <Image
-                    src="/images/team-1-user-3.JPG"
+                    src="/images/team-1-user-3.jpg"
                     alt="User 3"
                     width={300}
                     height={230}
@@ -271,16 +271,16 @@ export default function About() {
             <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-8">
               <div className="flex justify-center">
                 <Image
-                  src="/images/col-12.PNG"
+                  src="/images/col-12.png"
                   alt="col-12"
-                  width={100} // Specify appropriate width
-                  height={48} // Specify appropriate height
+                  width={100} 
+                  height={48} 
                   className="h-12 w-auto"
                 />
               </div>
               <div className="flex justify-center">
                 <Image
-                  src="/images/fa-brands-2 (1).PNG"
+                  src="/images/fa-brands-2 (1).png"
                   alt="fa-brands-2 (1)"
                   width={100}
                   height={48}
@@ -289,7 +289,7 @@ export default function About() {
               </div>
               <div className="flex justify-center">
                 <Image
-                  src="/images/fa-brands-3 (1).PNG"
+                  src="/images/fa-brands-3 (1).png"
                   alt="fa-brands-3 (1)"
                   width={100}
                   height={48}
@@ -298,7 +298,7 @@ export default function About() {
               </div>
               <div className="flex justify-center">
                 <Image
-                  src="/images/col-md-2 (4).PNG"
+                  src="/images/col-md-2 (4).png"
                   alt="col-md-2 (4)"
                   width={100}
                   height={48}
@@ -307,7 +307,7 @@ export default function About() {
               </div>
               <div className="flex justify-center">
                 <Image
-                  src="/images/col-md-2 (1).PNG"
+                  src="/images/col-md-2 (1).png"
                   alt="col-md-2 (1)"
                   width={100}
                   height={48}
@@ -316,7 +316,7 @@ export default function About() {
               </div>
               <div className="flex justify-center">
                 <Image
-                  src="/images/col-md-2.PNG"
+                  src="/images/col-md-2.png"
                   alt="col-md-2"
                   width={100}
                   height={48}
@@ -352,7 +352,7 @@ export default function About() {
           {/* Left Side */}
           <div className="w-full md:w-1/2 h-full relative flex justify-center items-center overflow-hidden">
             <Image
-              src="/images/gril-5.JPG"
+              src="/images/gril-5.jpg"
               alt="Girl"
               width={540}
               height={636}

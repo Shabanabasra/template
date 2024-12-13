@@ -7,7 +7,7 @@ const CollectionSection = () => {
       <section className="mt-0">
         <div className="relative w-full h-screen">
           <Image
-            src="/images/image10.JPG"
+            src="/images/image10.jpg"
             alt="image10"
             height={716}
             width={1440}

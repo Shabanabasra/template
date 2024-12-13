@@ -25,7 +25,7 @@ const FeaturePostSection = () => {
                     <div className="bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-2xl transition-shadow duration-300">
                       <div className="relative w-full h-56">
                         <Image
-                          src="/images/post1.JPG"
+                          src="/images/post1.jpg"
                           alt="Post 1"
                           fill
                           className="object-cover"
@@ -75,7 +75,7 @@ const FeaturePostSection = () => {
                     <div className="bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-2xl transition-shadow duration-300">
                       <div className="relative w-full h-56">
                         <Image
-                          src="/images/post2.JPG"
+                          src="/images/post2.jpg"
                           alt="Post 2"
                           fill
                           className="object-cover"
@@ -125,7 +125,7 @@ const FeaturePostSection = () => {
                     <div className="bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-2xl transition-shadow duration-300">
                       <div className="relative w-full h-56">
                         <Image
-                          src="/images/post3.JPG"
+                          src="/images/post3.jpg"
                           alt="Post 3"
                           fill
                           className="object-cover"

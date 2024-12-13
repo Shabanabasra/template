@@ -26,7 +26,7 @@ const FeatureProductSection = () => {
           {/* Image Container */}
           <div className="w-full h-56 mb-4 flex items-center justify-center bg-gray-100">
             <Image
-              src={`/images/image${index + 1}.JPG`}
+              src={`/images/image${index + 1}.jpg`}
               alt={`Graphic Design ${index + 1}`}
               width={200}
               height={224}
