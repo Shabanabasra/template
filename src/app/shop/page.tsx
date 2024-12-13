@@ -56,7 +56,7 @@ export default function Shop() {
           {/* Product Card 2 */}
           <div className="relative group h-[300px] overflow-hidden">
             <Image
-              src="/images/image15.JPG"
+              src="/images/image10.JPG"
               alt="Product Image"
               fill
               className="object-cover"
