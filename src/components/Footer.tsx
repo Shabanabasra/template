@@ -105,7 +105,7 @@ function Footer() {
             
               <button
                 type="submit"
-                className="bg-blue-500 text-white rounded-md p-2 gap-2"
+                className="bg-blue-500 text-white rounded-md p-2 gap-2 mt-4"
               >
                 Subscribe
               </button>
